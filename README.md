@@ -226,4 +226,3 @@ This backend is designed to work with a separate **React frontend**, which consu
 
 ---
 
-Feel free to fork, modify, and improve this project 🚀
